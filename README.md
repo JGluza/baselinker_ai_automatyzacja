@@ -1,5 +1,9 @@
 # BaseLinker SEO & Compliance Automator (GPT-4o)
 
+**Projekt Komercyjny:** Skrypt został zaprojektowany i wdrożony przeze mnie w ramach pracy na stanowisku IT Support dla firmy **Alcea Natural Sp. z o.o.** Narzędzie to zautomatyzowało proces wdrażania nowego asortymentu (suplementów diety) i zapewniło zgodność opisów z rygorystycznymi wymogami prawnymi.
+
+Zaawansowane narzędzie w języku Python do automatycznej optymalizacji danych produktowych. Skrypt integruje system **BaseLinker** z modelem **OpenAI GPT-4o**, aby generować opisy przyjazne dla SEO oraz weryfikować zgodność z polskimi przepisami (ustawa o bezpieczeństwie żywności, wytyczne EFSA).
+
 Zaawansowane narzędzie w języku Python do automatycznej optymalizacji danych produktowych. Skrypt integruje system **BaseLinker** z modelem **OpenAI GPT-4o**, aby generować opisy przyjazne dla SEO oraz zgodne z polskimi przepisami dotyczącymi suplementów diety.
 
 ## Kluczowe funkcje
